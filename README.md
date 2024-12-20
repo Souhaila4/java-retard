@@ -1,41 +1,86 @@
+<h3 align="left">Hi 👋! I'm Med Souhaila Karkoub</h3>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="1000" height="500"></p>
+### About Me
+I'm a passionate software engineer with experience in a variety of programming languages and technologies. Currently, I'm working on a Java-based project called *Zoomanagement* *Students*. Here's a glimpse of my projects, skills, and achievements.
 
-<h1 align="center">Hi, I'm Souhaila Karkoub</h1>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatmabacha28&label=Profile%20views&color=0e75b6&style=flat" alt="fatmabacha" /> </p>
+### 🚀 My Project: (Prosits)
 
-<p align="left"> <a href="https://www.linkedin.com/in/fatma-bacha-b060172b3/" target="blank"><img src="https://img.shields.io/twitter/follow/fatmabacha28?logo=twitter&style=for-the-badge" alt="fatmabacha" /></a> </p>
+I am excited to present *Zoomanagement*, a Java-based project designed to streamline the management of Zoom meetings. Below are the different stages (prosits) of the project, each offering unique features:
 
-- 💬 Ask me about **Anything**
+1. [**Prosit 1 - **](https://github.com/Souhaila4/java-retard/tree/prosit-1)  
+2. [**Prosit 2 - **](https://github.com/Souhaila4/java-retard/tree/prosit2)  
+3. [**Prosit 3 - **](https://github.com/Souhaila4/java-retard/tree/prosit-3)  
+4. [**Prosit 4 - **](https://github.com/Souhaila4/java-retard/tree/prosit-4)  
+5. [**Prosit 5 - **](https://github.com/Souhaila4/java-retard/tree/prosit-5)  
+6. [**Prosit 6 - **](https://github.com/Souhaila4/java-retard/tree/prosit-6)  
+7. [**Prosit 7 - **](https://github.com/Souhaila4/java-retard/tree/prosit-7)  
+8. [**Prosit 8 - **](https://github.com/Souhaila4/java-retard/tree/prosit-8)  
+9. [**Prosit 9 - **](https://github.com/Souhaila4/java-retard/tree/prosit-10)
+10.[**Prosit 10 - **](https://github.com/Souhaila4/java-retard/tree/prosit-11)
+11.[**Prosit 11 - **](https://github.com/Souhaila4/java-retard/tree/prosit-12)
+12.[**Prosit 9 - **](https://github.com/Souhaila4/java-retard/tree/prosit-13)
 
-- 📫 How to reach me **souhaila.karkoub@esprit.tn**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/souhaila.karkoub/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fatmabacha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_souhailakarkoub_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatmabacha" height="30" width="40" /></a>
-</p>
+### 🛠️ Technologies & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<span>
-<a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>  
+Here are some of the technologies I've used in my projects:
 
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
+</div>
 
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg" alt="php" style="max-width: 100%;">
-</span>
-<br/>
+---
 
-<table>
-  <tr>
-    <td><p><img src="https://github-readme-stats.vercel.app/api?username=fatmabacha28&show_icons=true&theme=radical&locale=en" alt="fatmabacha" /></p></td>
-  </tr>
-</table>
-<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"> </p>
+### 📈 GitHub Stats
+
+Check out my GitHub stats to see my contribution patterns:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Souhaila4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaaboura12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages used" />
+</div>
+
+---
+
+### 📞 Let's Connect
+
+You can reach out to me through any of the following platforms:
+
+<div align="left">
+  <a href="https://www.instagram.com/_souhailakarkoub_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="mailto:your.souhaila.karkoub@esprit.tn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+</div>
+
+---
+
+
+
+### 📅 Let's Keep in Touch
+
+I’m always open to new opportunities and collaborations! Feel free to reach out to me for any project discussions or questions. I'm excited to contribute to open-source and grow with the tech community!
+
+<br clear="both">
+
+
+---
