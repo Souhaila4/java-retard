@@ -1,7 +1,7 @@
 <h3 align="left">Hi 👋! I'm Med Souhaila Karkoub</h3>
 
 ### About Me
-I'm a passionate software engineer with experience in a variety of programming languages and technologies. Currently, I'm working on a Java-based project called *Zoomanagement* and*Students*. Here's a glimpse of my projects, skills, and achievements.
+I'm a passionate software engineer with experience in a variety of programming languages and technologies. Currently, I'm working on a Java-based project called *Zoomanagement* and *Students*. Here's a glimpse of my projects, skills, and achievements.
 
 ---
 
