@@ -74,7 +74,7 @@ You can reach out to me through any of the following platforms:
 
 ### 📅 Let's Keep in Touch
 
-I’m always open to new opportunities and collaborations! Feel free to reach out to me for any project discussions or questions. I'm excited to contribute to open-source and grow with the tech community!
+I’m always eager to connect and collaborate! Whether it’s about a project, an idea, or just a tech-related chat, don’t hesitate to reach out. I’m passionate about contributing to open-source projects and learning alongside the vibrant tech community.
 
 <br clear="both">
 
